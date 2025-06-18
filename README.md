@@ -29,5 +29,5 @@ There are only 3 commands: `list`, `add`, `remove`.
 The location of this file depends on your OS.
 
 ## Requirements:
-* Rust (cargo, rustc) https://rustup.rs
+* Rust (cargo, rustc) https://rustup.rs (only needed for building)
 * Tested on Linux and Windows (ubuntu24, windows11)
