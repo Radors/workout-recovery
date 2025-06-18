@@ -30,4 +30,4 @@ The location of this file depends on your OS.
 
 ## Requirements:
 * Rust (cargo, rustc) https://rustup.rs
-* Tested on: Ubuntu 24 (although it should work on any common OS)
+* Tested on Linux and Windows (ubuntu24, windows11)
